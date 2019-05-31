@@ -103,5 +103,5 @@ If you found this code useful, please cite the following paper:
 	}
 
 ## License 
-
+This project is licensed under the terms of BSD 3-clause Clear license.
 by downloading this program, you commit to comply with the license as stated in the LICENSE.md file.
